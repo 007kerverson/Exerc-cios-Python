@@ -1,0 +1,21 @@
+P4.26.
+A estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, desde que determinada condição seja satisfeita.
+
+P4.27.
+Quando o número de repetições já for conhecido, devemos utilizar um contador para controlar o número de repetições do laço. Um contador é uma variável do tipo inteiro que deve receber de início o valor 1 e dentro do laço deve ser acrescentada em 1, ou seja, adicionar o valor 1 ao conteúdo da própria variável.
+
+P4.28.
+Quando não conhecemos o número de repetições e este for determinado por um valor que será lido, devemos fazer uso de um controle de repetições por entrada, que também é conhecido como controle por sentinela.
+
+P4.29.   
+
+P4.30. https://repl.it/Clor/0
+
+P4.31. https://repl.it/Clon/1
+
+P4.32. https://repl.it/Cm3s/0
+
+P4.33. https://repl.it/Clor/1
+
+P4.34. https://repl.it/Clor/2
+
